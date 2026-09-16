@@ -1,5 +1,4 @@
-# ai-data-analytics-project
-SQL + Python project analyzing e-commerce sales with visualizations
+
 # Ecommerce Data Analytics Project
 
 ## 📌 Overview
@@ -38,9 +37,16 @@ ecommerce-project/
 4. Execute Python scripts to generate reports
 
 ## 📊 Reports
-- Top Products (bar chart)
-- Monthly Revenue (line chart)
-- Customer Orders (bar chart)
+
+### Top Products
+![Top Products](reports/top_products.png)
+
+### Monthly Revenue
+![Monthly Revenue](reports/revenue_trend.png)
+
+### Customer Orders
+![Customer Orders](reports/customer_orders.png)
+
 
 ## 🚀 Tech Stack
 MySQL, Python (Pandas, SQLAlchemy, Matplotlib, Seaborn), GitHub
